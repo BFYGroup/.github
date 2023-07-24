@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the BFY Group GitHub 👋
+
+We use this space to manage projects and store important code used across the business
 
 <!--
 
