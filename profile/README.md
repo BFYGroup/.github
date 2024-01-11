@@ -2,6 +2,9 @@
 
 We use this space to manage projects and store important code used across the business
 
+![image](https://github.com/BFYGroup/.github/assets/152992949/a6949a62-cca2-4fc6-9ca6-a3384ac48214)
+
+
 <!--
 
 **Here are some ideas to get you started:**
